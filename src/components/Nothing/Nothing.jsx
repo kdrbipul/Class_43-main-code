@@ -6,7 +6,7 @@ const Nothing = () => {
         <div className="container">
             <h2>404 <span>Nothing There to see</span></h2>
             
-            <Link to='/'><button className='btn btn-outline-success'>Go Back</button></Link>
+            <Link to='/home'><button className='btn btn-outline-success'>Go Back</button></Link>
         </div>
     );
 };

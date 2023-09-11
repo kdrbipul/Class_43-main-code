@@ -12,3 +12,36 @@
 .home .home_content{
     text-align: left;
 }
+.home .home_content h4{
+    color: #F90;
+
+    /* Subtitle 1 */
+    font-family: Lato;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.026px;
+    margin-bottom: 30px;
+}
+
+.home .home_content h1{
+    color: #1C2B35;
+    font-family: Lato;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.9px;
+    margin-bottom: 20px;
+}
+.home .home_content p{
+    color: #2A414F;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.06px;
+    margin-bottom: 20px;
+}

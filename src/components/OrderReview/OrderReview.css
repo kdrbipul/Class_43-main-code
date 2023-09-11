@@ -1,0 +1,8 @@
+.order.container{
+    max-width: 80%;
+    margin: 20px auto;
+}
+.order_review{
+    display: flex;
+    justify-content: space-between;
+}
