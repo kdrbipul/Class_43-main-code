@@ -1,9 +1,12 @@
-
+import { Link } from 'react-router-dom';
+import './Nothing.css'
 
 const Nothing = () => {
     return (
         <div className="container">
             <h2>404 <span>Nothing There to see</span></h2>
+            
+            <Link to='/'><button className='btn btn-outline-success'>Go Back</button></Link>
         </div>
     );
 };

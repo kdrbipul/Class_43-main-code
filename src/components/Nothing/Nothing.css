@@ -1,0 +1,20 @@
+.container{
+    max-width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+.btn{
+    padding: 8px;
+    margin: 8px;
+    background-color: #FF3030;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    transition: all 400ms linear;
+}
+.btn:hover{
+    background-color: #FF9900;
+    cursor: pointer;
+    color: white;
+}

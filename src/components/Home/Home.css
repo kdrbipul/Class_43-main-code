@@ -1,0 +1,14 @@
+.container{
+    max-width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+.home{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home .home_content{
+    text-align: left;
+}

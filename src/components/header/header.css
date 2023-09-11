@@ -30,3 +30,6 @@
     line-height: normal;
     letter-spacing: 0.085px;
 }
+.active{
+    color: #FF3030 !important;
+}
