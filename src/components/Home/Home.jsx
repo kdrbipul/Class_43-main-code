@@ -10,7 +10,7 @@ const Home = () => {
                 <h4>Sale Up to 70% off</h4>
                 <h1>New Collection For Fall</h1>
                 <p>Discover all the new arrivals of ready-to-wear collection</p>
-                <NavLink to='/product'><button className='btn btn_home'>Shop Now</button></NavLink>
+                <NavLink to='/product'><button className='btn btn-outline-warning'>Shop Now</button></NavLink>
             </div>
             <div className="home_img">
                 <img src={IMG} alt="" />

@@ -11,7 +11,7 @@
     padding:8px;
 }
 .product_name{
-    padding: 12px 14px;
+    padding: 6px 14px;
     color: #0E161A;
     font-family: Lato;
     font-size: 18px;
@@ -20,7 +20,7 @@
     letter-spacing: 0.032px;
 }
 .product_price{
-    padding: 12px 14px;
+    padding: 6px 14px;
     color: #0E161A;
     font-family: Lato;
     font-size: 18px;
@@ -29,7 +29,7 @@
     letter-spacing: 0.032px;
 }
 .product_brand,.product_ratings{
-    padding: 2px 14px;
+    padding: 0 14px;
     color: #2A414F;
     font-family: Lato;
     font-size: normal;
